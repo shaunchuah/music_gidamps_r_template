@@ -35,3 +35,8 @@ Note: Depending on what data is required, your redcap account will need the corr
 ### 5. Run version control when you create new scripts
 
 See tutorial here: <https://www.atlassian.com/git>
+
+## Additional suggestions
+
+- Create a github account
+- Use this repository to kickstart your own analysis, see here: <https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template>
